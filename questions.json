@@ -1,0 +1,49 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Que es Proyeción Social?",
+		            "content" : [
+		                "Investigación Social y comunitaria",
+		                "Es el vínculo entre la Corporación y la sociedad",
+		                "La practica empresarial de los estudiantes",
+		                "Investigación e innovación en la comunidad"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Cuantos casos se han desarrollado en PS el programa de Ing Sitemas en el campo de la TICs",
+		            "content" : [
+		                "110",
+		                "98",
+		                "120",
+		                "58"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "El area de mayor desempeño de Ing Sistemas en PS es:",
+		            "content" : [
+		                "e-business",
+		                "Instalación de redes",
+		                "Implantación de GIS",
+		                "Desarrollo de Software"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Cual de estas entidades seran eje de acción del programa en PS?",
+		            "content" : [
+		                "Gobernación de Sucre",
+		                "Confasucre",
+		                "La regional",
+		                "Alcaldia de Corozal"
+		            ],
+		            "correct" : 2
+				}
+			]
+		}
+	]
+} 
+
